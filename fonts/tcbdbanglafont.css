@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SolaimanLipi';
+    src: url('solaimanlipi-webfont.eot');
+    src: url('solaimanlipi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('solaimanlipi-webfont.woff2') format('woff2'),
+         url('solaimanlipi-webfont.woff') format('woff'),
+         url('solaimanlipi-webfont.ttf') format('truetype'),
+         url('solaimanlipi-webfont.svg#SolaimanLipi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
