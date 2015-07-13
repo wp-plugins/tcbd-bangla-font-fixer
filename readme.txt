@@ -22,6 +22,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 ১। "tcbdbanglafont" আপনার সাইটের  wp-content ডিরেক্টরিতে অথবা এডমিন প্যানেলের প্লাগিন অপশন থেকে  এড নিউ করে  আপলোড করুন।
 ২।ইন্সটল করা প্লাগিন সমূহ (installed plugins) থেকে  TCBD Bangla Font Fixer প্লাগিনটি সক্রিয় করুন।
 
+== Screenshots ==
+
+1. Screenshot 1
+
 == Frequently Asked Questions ==
 
 = আমি প্লাগিনটি ইন্সটল করেছি তবে ফন্ট এখনো ভেঙে যাচ্ছে =
