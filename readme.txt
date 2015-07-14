@@ -1,5 +1,5 @@
 === Bangla Font Fixer ===
-Contributors: Md. Touhidul Sadeek
+Contributors: tcoder
 Tags: bangla, font, fix, fixer, break down
 Requires at least: 3.0
 Tested up to: 4.2.2
