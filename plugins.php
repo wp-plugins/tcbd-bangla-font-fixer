@@ -3,7 +3,7 @@
 Plugin Name: TCBD Bangla Font Fixer
 Plugin URI: http://demos.tcoderbd.com/wordpress_plugin/tcbdbanglafont/tcbdbanglafont.zip
 Description: বাংলা ফন্ট ভেঙে যাওয়া থেকে বাঁচার উপায়
-Author: tcoderbd
+Author: Md Touhidul Sadeek
 Version: 1.0
 Author URI: http://tcoderbd.com
 */
