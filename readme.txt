@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ভেঙে যাওয়া বাংলা ফন্ট ঠিক করার জন্য এই প্লাগিনটি আপনাকে সাহায্য করবে।
+ভেঙে যাওয়া বাংলা ফন্ট ঠিক করার উপায়
 
 == Description ==
 
