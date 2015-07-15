@@ -17,11 +17,11 @@ defined( 'ABSPATH' ) || exit;
 define('X_PLUGIN_URL', WP_PLUGIN_URL . '/' . plugin_basename( dirname(__FILE__) ) . '/' );
 
 
-
-// Custom font Call in header.
-wp_enqueue_style('tcbdbanglafont-plugin-font-css', X_PLUGIN_URL.'fonts/tcbdbanglafont.css');
-
-
+function tcbd_bangla_font_scripts(){
+	// Custom font Call in header.
+	wp_enqueue_style('tcbdbanglafont-plugin-font-css', X_PLUGIN_URL.'fonts/tcbdbanglafont.css');
+}
+add_action('wp_enqueue_scripts', 'tcbd_bangla_font_scripts');
 
 // Custom font for wp_head and front page body
 function tcbdbanglafont_head() {
